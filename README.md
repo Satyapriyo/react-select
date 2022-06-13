@@ -21,7 +21,7 @@ Features include:
 - Controllable state props and modular architecture
 - Long-requested features like option groups, portal support, animation, and more
 
-## Using an older version?
+## Are you using an older version?
 
 - [v3, v4, and v5 upgrade guide](https://react-select.com/upgrade)
 - [v2 upgrade guide](https://react-select.com/upgrade-to-v2)
